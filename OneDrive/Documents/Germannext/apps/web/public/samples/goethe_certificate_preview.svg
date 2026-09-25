@@ -1,0 +1,51 @@
+<svg width="600" height="850" viewBox="0 0 600 850" xmlns="http://www.w3.org/2000/svg" style="background:#f7fafc; font-family:sans-serif;">
+  <!-- Border -->
+  <rect x="25" y="25" width="550" height="800" fill="#ffffff" stroke="#cbd5e0" stroke-width="2" rx="4"/>
+  <rect x="35" y="35" width="530" height="780" fill="none" stroke="#2b6cb0" stroke-width="1"/>
+
+  <!-- Goethe Logo Header -->
+  <rect x="35" y="35" width="530" height="90" fill="#2b6cb0"/>
+  <text x="60" y="80" font-size="24" font-weight="bold" fill="#ffffff" letter-spacing="1">GOETHE-INSTITUT</text>
+  <text x="60" y="105" font-size="13" fill="#bee3f8">MAX MUELLER BHAVAN NEW DELHI</text>
+
+  <!-- Title -->
+  <text x="300" y="180" font-size="28" font-weight="bold" fill="#1a202c" text-anchor="middle">GOETHE-ZERTIFIKAT B1</text>
+  <text x="300" y="210" font-size="14" fill="#4a5568" text-anchor="middle">Zertifikat Deutsch für Jugendliche und Erwachsene</text>
+  <text x="300" y="230" font-size="12" fill="#718096" text-anchor="middle">Gemeinsamer europäischer Referenzrahmen für Sprachen (CEFR B1)</text>
+
+  <line x1="80" y1="260" x2="520" y2="260" stroke="#e2e8f0" stroke-width="1.5"/>
+
+  <!-- Candidate Details -->
+  <text x="80" y="300" font-size="14" fill="#718096">Vor- und Nachname / Full Name:</text>
+  <text x="80" y="330" font-size="22" font-weight="bold" fill="#2d3748">Rahul Sharma</text>
+
+  <text x="80" y="375" font-size="13" fill="#718096">Geburtsdatum / Date of Birth: <tspan font-weight="bold" fill="#2d3748">15.08.2001</tspan></text>
+  <text x="350" y="375" font-size="13" fill="#718096">Geburtsort / Place of Birth: <tspan font-weight="bold" fill="#2d3748">Chennai, Indien</tspan></text>
+
+  <!-- Module Results Table -->
+  <rect x="80" y="420" width="440" height="200" fill="#f7fafc" stroke="#cbd5e0" rx="4"/>
+  <line x1="80" y1="460" x2="520" y2="460" stroke="#cbd5e0" stroke-width="1"/>
+  
+  <text x="100" y="448" font-size="13" font-weight="bold" fill="#4a5568">Modul / Skill</text>
+  <text x="360" y="448" font-size="13" font-weight="bold" fill="#4a5568">Erreichte Punkte (max 100)</text>
+
+  <text x="100" y="490" font-size="14" fill="#2d3748">Lesen (Reading)</text>
+  <text x="360" y="490" font-size="14" font-weight="bold" fill="#2b6cb0">80 / 100</text>
+
+  <text x="100" y="525" font-size="14" fill="#2d3748">Hören (Listening)</text>
+  <text x="360" y="525" font-size="14" font-weight="bold" fill="#2b6cb0">88 / 100</text>
+
+  <text x="100" y="560" font-size="14" fill="#2d3748">Schreiben (Writing)</text>
+  <text x="360" y="560" font-size="14" font-weight="bold" fill="#2b6cb0">84 / 100</text>
+
+  <text x="100" y="595" font-size="14" fill="#2d3748">Sprechen (Speaking)</text>
+  <text x="360" y="595" font-size="14" font-weight="bold" fill="#2b6cb0">84 / 100</text>
+
+  <!-- Overall Grade Banner -->
+  <rect x="80" y="640" width="440" height="50" fill="#ebf8ff" stroke="#bee3f8" rx="4"/>
+  <text x="100" y="670" font-size="16" font-weight="bold" fill="#2b6cb0">Gesamtergebnis / Result: GUT (84 / 100 Punkte)</text>
+
+  <text x="80" y="730" font-size="12" fill="#718096">Prüfungsdatum: <tspan font-weight="bold" fill="#2d3748">14.11.2023</tspan></text>
+  <text x="80" y="750" font-size="12" fill="#718096">Prüfungsort: <tspan font-weight="bold" fill="#2d3748">New Delhi, Indien</tspan></text>
+  <text x="80" y="770" font-size="11" fill="#a0aec0" font-family="monospace">Zertifikatsnummer: GI-DEL-2023-B1-748920</text>
+</svg>

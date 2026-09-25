@@ -1,0 +1,19 @@
+{
+  "name": "educaro-applicant-journey",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --parallel --filter api --filter web dev",
+    "dev:shared": "pnpm --filter @educaro/shared dev",
+    "build": "pnpm --filter @educaro/shared build && pnpm --filter api build && pnpm --filter web build",
+    "build:shared": "pnpm --filter @educaro/shared build",
+    "start:api": "pnpm --filter api start",
+    "start:web": "pnpm --filter web dev",
+    "db:up": "docker compose up -d",
+    "db:down": "docker compose down",
+    "db:logs": "docker compose logs -f"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

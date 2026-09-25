@@ -1,0 +1,51 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="40%" stop-color="#334155"/>
+      <stop offset="80%" stop-color="#475569"/>
+      <stop offset="100%" stop-color="#2d3748"/>
+    </linearGradient>
+    <linearGradient id="overlayGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="rgba(30, 41, 59, 0.85)"/>
+      <stop offset="60%" stop-color="rgba(24, 32, 45, 0.90)"/>
+      <stop offset="100%" stop-color="rgba(15, 23, 42, 0.95)"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Sky Base -->
+  <rect width="1920" height="1080" fill="url(#skyGrad)"/>
+
+  <!-- German City Skyline Silhouette (Brandenburg Gate / Fernsehturm / University dome silhouettes) -->
+  <g fill="#1f2937" opacity="0.6">
+    <!-- TV Tower (Fernsehturm Berlin) -->
+    <rect x="1400" y="200" width="8" height="500"/>
+    <circle cx="1404" cy="350" r="35" fill="#1f2937"/>
+    <polygon points="1404,120 1402,200 1406,200"/>
+
+    <!-- Historic Cathedral / University Dome -->
+    <path d="M 600,700 C 600,500 750,450 850,550 C 950,450 1100,500 1100,700 Z"/>
+    <rect x="830" y="400" width="40" height="150"/>
+    <polygon points="850,300 825,400 875,400"/>
+
+    <!-- Classic Neo-classical Pillars (Brandenburg Gate motif) -->
+    <rect x="250" y="550" width="30" height="250"/>
+    <rect x="310" y="550" width="30" height="250"/>
+    <rect x="370" y="550" width="30" height="250"/>
+    <rect x="430" y="550" width="30" height="250"/>
+    <rect x="490" y="550" width="30" height="250"/>
+    <rect x="220" y="510" width="330" height="40"/>
+    <polygon points="385,440 220,510 550,510"/>
+
+    <!-- Buildings -->
+    <rect x="0" y="650" width="220" height="300"/>
+    <rect x="1100" y="620" width="300" height="300"/>
+    <rect x="1450" y="660" width="470" height="300"/>
+  </g>
+
+  <!-- Midground Bridge and River Spree Reflection -->
+  <path d="M 0,820 Q 960,860 1920,820 L 1920,1080 L 0,1080 Z" fill="#0f172a" opacity="0.8"/>
+
+  <!-- High-end Cinematic Dark Overlay (Per PRD 9.1: overlay darkening is non-negotiable so text stays highly readable) -->
+  <rect width="1920" height="1080" fill="url(#overlayGrad)"/>
+</svg>

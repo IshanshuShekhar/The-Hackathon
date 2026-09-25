@@ -1,0 +1,76 @@
+<svg width="600" height="850" viewBox="0 0 600 850" xmlns="http://www.w3.org/2000/svg" style="background:#f7fafc; font-family:sans-serif;">
+  <!-- Border & Visa Sticker Background -->
+  <rect x="25" y="25" width="550" height="800" fill="#ffffff" stroke="#cbd5e0" stroke-width="2" rx="8"/>
+  <rect x="35" y="35" width="530" height="780" fill="#fcfbf7" stroke="#319795" stroke-width="2" rx="6"/>
+
+  <!-- Top German / Schengen Header -->
+  <rect x="35" y="35" width="530" height="95" fill="#234e52" rx="6"/>
+  <text x="300" y="68" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="2">BUNDESREPUBLIK DEUTSCHLAND</text>
+  <text x="300" y="90" font-size="13" fill="#b2f5ea" text-anchor="middle" letter-spacing="1.5">VISUM / VISA / VISA</text>
+  <text x="300" y="112" font-size="11" fill="#81e6d9" text-anchor="middle">FEDERAL REPUBLIC OF GERMANY • SCHENGEN STATES</text>
+
+  <!-- Visa Sticker Number & Barcode Area -->
+  <rect x="55" y="145" width="490" height="42" fill="#edf2f7" stroke="#cbd5e0" rx="4"/>
+  <text x="75" y="162" font-size="10" fill="#718096">Gültig für / Valid for</text>
+  <text x="75" y="178" font-size="14" font-weight="bold" fill="#2d3748">DEUTSCHLAND</text>
+
+  <text x="320" y="162" font-size="10" fill="#718096">Nummer des Visums / Visa No.</text>
+  <text x="320" y="178" font-size="16" font-weight="bold" fill="#c53030">DEU8492019</text>
+
+  <!-- Photo Box & Stamp -->
+  <rect x="65" y="210" width="140" height="175" fill="#e2e8f0" stroke="#a0aec0" rx="4"/>
+  <circle cx="135" cy="275" r="38" fill="#cbd5e0"/>
+  <path d="M 90 360 C 90 320, 180 320, 180 360 Z" fill="#cbd5e0"/>
+  <text x="135" y="380" font-size="10" fill="#718096" text-anchor="middle">VISA PHOTO</text>
+
+  <!-- Visa Specifics -->
+  <g transform="translate(230, 215)">
+    <!-- From / To Dates -->
+    <text x="0" y="15" font-size="11" fill="#718096">Vom / From</text>
+    <text x="0" y="35" font-size="16" font-weight="bold" fill="#1a202c">01.10.2024</text>
+
+    <text x="140" y="15" font-size="11" fill="#718096">Bis / Until</text>
+    <text x="140" y="35" font-size="16" font-weight="bold" fill="#1a202c">30.09.2025</text>
+
+    <!-- Visa Type & Entries -->
+    <text x="0" y="70" font-size="11" fill="#718096">Art des Visums / Type of Visa</text>
+    <text x="0" y="90" font-size="16" font-weight="bold" fill="#234e52">D (NATIONALES VISUM)</text>
+
+    <text x="0" y="125" font-size="11" fill="#718096">Anzahl der Einreisen / Number of entries</text>
+    <text x="0" y="145" font-size="14" font-weight="bold" fill="#2d3748">MULT (MULTIPLE)</text>
+
+    <text x="0" y="175" font-size="11" fill="#718096">Dauer des Aufenthalts / Duration of stay: <tspan font-weight="bold" fill="#2d3748">365 TAGE</tspan></text>
+  </g>
+
+  <!-- Holder Details -->
+  <line x1="55" y1="410" x2="545" y2="410" stroke="#cbd5e0" stroke-width="1"/>
+
+  <g transform="translate(65, 430)">
+    <text x="0" y="15" font-size="11" fill="#718096">Name, Vorname / Surname, Name</text>
+    <text x="0" y="38" font-size="18" font-weight="bold" fill="#1a202c">SHARMA, RAHUL</text>
+
+    <text x="280" y="15" font-size="11" fill="#718096">Passnummer / Passport No.</text>
+    <text x="280" y="38" font-size="16" font-weight="bold" fill="#2d3748">Z5829104</text>
+
+    <text x="0" y="75" font-size="11" fill="#718096">Ausgestellt in / Issued in</text>
+    <text x="0" y="95" font-size="14" font-weight="bold" fill="#2d3748">CHENNAI (GERMAN CONSULATE)</text>
+
+    <text x="280" y="75" font-size="11" fill="#718096">Am / On</text>
+    <text x="280" y="95" font-size="14" font-weight="bold" fill="#2d3748">15.09.2024</text>
+  </g>
+
+  <!-- Anmerkungen / Remarks -->
+  <rect x="55" y="555" width="490" height="70" fill="#edf2f7" stroke="#cbd5e0" rx="4"/>
+  <text x="70" y="575" font-size="10" font-weight="bold" fill="#4a5568">Anmerkungen / Remarks:</text>
+  <text x="70" y="595" font-size="11" fill="#2d3748">STUDIUM / ERWERBSTÄTIGKEIT GEMÄSS § 16b / 18b AUFENTHG</text>
+  <text x="70" y="612" font-size="10" fill="#718096">Pursuant to Section 16b/18b German Residence Act (Aufenthaltsgesetz)</text>
+
+  <!-- Machine Readable Zone (MRZ) -->
+  <rect x="45" y="650" width="510" height="135" fill="#f7fafc" stroke="#cbd5e0" rx="4"/>
+  <text x="60" y="695" font-family="monospace" font-size="16" font-weight="bold" fill="#1a202c" letter-spacing="4">
+    VDD&lt;&lt;SHARMA&lt;&lt;RAHUL&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+  </text>
+  <text x="60" y="745" font-family="monospace" font-size="16" font-weight="bold" fill="#1a202c" letter-spacing="4">
+    DEU8492019&lt;1IND0108153M2509307&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+  </text>
+</svg>

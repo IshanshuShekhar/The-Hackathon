@@ -1,0 +1,43 @@
+<svg width="600" height="850" viewBox="0 0 600 850" xmlns="http://www.w3.org/2000/svg" style="background:#fcfbf7; font-family:serif;">
+  <!-- Border -->
+  <rect x="20" y="20" width="560" height="810" fill="none" stroke="#8b7355" stroke-width="4"/>
+  <rect x="30" y="30" width="540" height="790" fill="none" stroke="#8b7355" stroke-width="1" stroke-dasharray="6,3"/>
+
+  <!-- University Emblem -->
+  <circle cx="300" cy="95" r="45" fill="#f0ebd8" stroke="#8b7355" stroke-width="2"/>
+  <text x="300" y="102" font-size="28" font-weight="bold" fill="#5c4a32" text-anchor="middle">AU</text>
+
+  <!-- Title -->
+  <text x="300" y="175" font-size="26" font-weight="bold" fill="#2d3748" text-anchor="middle" font-family="'Times New Roman', serif" letter-spacing="1">ANNA UNIVERSITY</text>
+  <text x="300" y="200" font-size="13" fill="#4a5568" text-anchor="middle" font-family="sans-serif">CHENNAI - 600 025, INDIA</text>
+  <text x="300" y="220" font-size="11" fill="#718096" text-anchor="middle" font-family="sans-serif">ESTABLISHED UNDER ACT XXVI OF 1978</text>
+
+  <line x1="100" y1="240" x2="500" y2="240" stroke="#cbd5e0" stroke-width="1"/>
+
+  <!-- Body Text -->
+  <text x="300" y="285" font-size="14" fill="#4a5568" text-anchor="middle" font-style="italic">The Syndicate of the Anna University hereby makes known that</text>
+  
+  <text x="300" y="330" font-size="24" font-weight="bold" fill="#1a202c" text-anchor="middle">RAHUL SHARMA</text>
+  
+  <text x="300" y="375" font-size="14" fill="#4a5568" text-anchor="middle" font-style="italic">has been admitted to the Degree of</text>
+  
+  <rect x="80" y="405" width="440" height="45" fill="#edf2f7" rx="6"/>
+  <text x="300" y="435" font-size="18" font-weight="bold" fill="#2b6cb0" text-anchor="middle" font-family="sans-serif">BACHELOR OF TECHNOLOGY</text>
+  
+  <text x="300" y="480" font-size="15" fill="#2d3748" text-anchor="middle">Branch: <tspan font-weight="bold">Computer Science and Engineering</tspan></text>
+  
+  <text x="300" y="520" font-size="13" fill="#4a5568" text-anchor="middle">having completed all prescribed requirements in the examination</text>
+  <text x="300" y="545" font-size="15" font-weight="bold" fill="#2d3748" text-anchor="middle">held in MAY 2024</text>
+  
+  <text x="300" y="585" font-size="14" fill="#2d3748" text-anchor="middle">Classification: <tspan font-weight="bold" fill="#2b6cb0">FIRST CLASS WITH DISTINCTION</tspan></text>
+  <text x="300" y="610" font-size="13" fill="#718096" text-anchor="middle">Cumulative Grade Point Average (CGPA): 8.40 / 10.0</text>
+
+  <!-- Seal and Signatures -->
+  <circle cx="150" cy="710" r="35" fill="none" stroke="#e53e3e" stroke-width="2"/>
+  <text x="150" y="714" font-size="10" font-weight="bold" fill="#e53e3e" text-anchor="middle">OFFICIAL SEAL</text>
+
+  <line x1="380" y1="720" x2="520" y2="720" stroke="#4a5568" stroke-width="1"/>
+  <text x="450" y="738" font-size="12" fill="#4a5568" text-anchor="middle">Registrar / Controller of Examinations</text>
+
+  <text x="300" y="800" font-size="10" fill="#a0aec0" text-anchor="middle" font-family="monospace">Doc Ref: AU-2024-CSE-984210 • Anabin ID: H+ Recognized</text>
+</svg>

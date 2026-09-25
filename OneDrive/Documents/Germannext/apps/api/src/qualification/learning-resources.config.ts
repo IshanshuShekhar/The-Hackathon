@@ -1,0 +1,92 @@
+import { GermanResource } from '@educaro/shared';
+
+/**
+ * Curated, reputable free German tutorial resources.
+ * Content-managed config so Educaro consultants can add or update resources without rebuilding.
+ */
+export const GERMAN_LEARNING_RESOURCES: GermanResource[] = [
+  {
+    id: 'dw-nicos-weg-a1',
+    title: 'Nicos Weg — German A1 Beginner Course',
+    description: 'Telenovela-style structured video course following Nico, an expat arriving in Germany. Features interactive vocabulary drills and A1 grammar.',
+    level: 'A1',
+    provider: 'Deutsche Welle (DW)',
+    url: 'https://learngerman.dw.com/en/nicos-weg/c-36519789',
+    type: 'Structured Course',
+    isPrimary: true,
+  },
+  {
+    id: 'goethe-ueben-a1',
+    title: 'Practise German for Free — A1 Starters',
+    description: 'Official interactive exercises, conversational dialogues, and downloadable mobile apps from Germany’s cultural institute.',
+    level: 'A1',
+    provider: 'Goethe-Institut',
+    url: 'https://www.goethe.de/en/spr/ueb.html',
+    type: 'Interactive Exercises',
+  },
+  {
+    id: 'easy-german-a1',
+    title: 'Easy German — Super Easy German Series',
+    description: 'Authentic street interviews filmed in Berlin with slow, clear pronunciation and dual German/English subtitles for foundational listening.',
+    level: 'A1',
+    provider: 'Easy German',
+    url: 'https://www.youtube.com/@EasyGerman',
+    type: 'Video & Audio Immersion',
+  },
+  {
+    id: 'dw-nicos-weg-a2',
+    title: 'Nicos Weg — German A2 Elementary Course',
+    description: 'Continue Nico’s journey navigating work, housing, doctor appointments, and social life in Germany with intermediate grammar and listening quizzes.',
+    level: 'A2',
+    provider: 'Deutsche Welle (DW)',
+    url: 'https://learngerman.dw.com/en/nicos-weg/c-36519797',
+    type: 'Structured Course',
+    isPrimary: true,
+  },
+  {
+    id: 'goethe-ueben-a2',
+    title: 'Goethe-Institut — Everyday Workplace German (A2)',
+    description: 'Practical training materials focused on daily professional workplace communication, writing emails, and public transport.',
+    level: 'A2',
+    provider: 'Goethe-Institut',
+    url: 'https://www.goethe.de/en/spr/ueb.html',
+    type: 'Interactive Exercises',
+  },
+  {
+    id: 'easy-german-a2',
+    title: 'Easy German — Street Interviews & Daily Culture (A2)',
+    description: 'Listen to native speakers discuss work routines, student living costs, and German cultural norms with real-time subtitles.',
+    level: 'A2',
+    provider: 'Easy German',
+    url: 'https://www.youtube.com/@EasyGerman',
+    type: 'Video & Audio Immersion',
+  },
+  {
+    id: 'dw-nicos-weg-b1',
+    title: 'Nicos Weg — German B1 Independent Fluency',
+    description: 'Targeted preparation for vocational training (Ausbildung) and academic studies, covering complex sentence structures and official visa requirements.',
+    level: 'B1',
+    provider: 'Deutsche Welle (DW)',
+    url: 'https://learngerman.dw.com/en/nicos-weg/c-36519718',
+    type: 'Structured Course',
+    isPrimary: true,
+  },
+  {
+    id: 'goethe-ueben-b1',
+    title: 'Goethe-Zertifikat B1 Exam Preparation & Sample Tests',
+    description: 'Official Goethe exam practice modules, speaking exam templates, and listening tracks to ensure test-day readiness.',
+    level: 'B1',
+    provider: 'Goethe-Institut',
+    url: 'https://www.goethe.de/en/spr/ueb.html',
+    type: 'Interactive Exercises',
+  },
+  {
+    id: 'easy-german-b1',
+    title: 'Easy German — Advanced Listening & Natural Speech (B1)',
+    description: 'Deep-dive conversations on life in Germany, job interviews, and regional dialects to bridge the gap between classroom and real life.',
+    level: 'B1',
+    provider: 'Easy German',
+    url: 'https://www.youtube.com/@EasyGerman',
+    type: 'Video & Audio Immersion',
+  },
+];

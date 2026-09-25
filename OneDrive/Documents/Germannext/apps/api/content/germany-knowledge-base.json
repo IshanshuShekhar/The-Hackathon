@@ -1,0 +1,130 @@
+[
+  {
+    "id": "kb_study_tuition",
+    "category": "STUDY",
+    "fact": "Public universities are typically tuition-free (or near-free), requiring only a semester contribution of €150-350.",
+    "amount": null,
+    "source_url": "https://www.study-in-germany.de",
+    "last_verified": "2026-09-25"
+  },
+  {
+    "id": "kb_study_blocked_account",
+    "category": "STUDY",
+    "fact": "Blocked account (Sperrkonto) requirement for a standard student visa is €11,904/year (€992/month). Covers living costs, not tuition.",
+    "amount": 11904,
+    "source_url": "https://www.auswaertiges-amt.de",
+    "last_verified": "2026-09-25"
+  },
+  {
+    "id": "kb_study_providers",
+    "category": "STUDY",
+    "fact": "Blocked account providers include Expatrio, Fintiba (examples only).",
+    "amount": null,
+    "source_url": "https://www.study-in-germany.de",
+    "last_verified": "2026-09-25"
+  },
+  {
+    "id": "kb_study_post_grad",
+    "category": "STUDY",
+    "fact": "Post-graduation: 18-month job-search residence permit for non-EU graduates.",
+    "amount": null,
+    "source_url": "https://www.make-it-in-germany.com",
+    "last_verified": "2026-09-25"
+  },
+  {
+    "id": "kb_study_fields",
+    "category": "STUDY",
+    "fact": "Strong-fit fields include engineering, computer science/IT, and healthcare.",
+    "amount": null,
+    "source_url": "https://www.make-it-in-germany.com",
+    "last_verified": "2026-09-25"
+  },
+  {
+    "id": "kb_work_shortage",
+    "category": "WORK",
+    "fact": "Shortage occupation list (Engpassberufe) features 163 occupations as of the 2025-2026 edition.",
+    "amount": 163,
+    "source_url": "https://www.arbeitsagentur.de",
+    "last_verified": "2026-09-25"
+  },
+  {
+    "id": "kb_work_blue_card",
+    "category": "WORK",
+    "fact": "Being on the shortage list lowers the EU Blue Card salary threshold from €50,700 to €45,934.20 and skips the labour-market priority check.",
+    "amount": 45934.2,
+    "source_url": "https://www.make-it-in-germany.com",
+    "last_verified": "2026-09-25"
+  },
+  {
+    "id": "kb_work_sectors",
+    "category": "WORK",
+    "fact": "Sectors with the strongest demand: healthcare, IT, engineering, construction, skilled trades (electrical, metalworking, HVAC/plumbing), teaching, transport/logistics.",
+    "amount": null,
+    "source_url": "https://www.arbeitsagentur.de",
+    "last_verified": "2026-09-25"
+  },
+  {
+    "id": "kb_work_opportunity_card",
+    "category": "WORK",
+    "fact": "Opportunity Card (Chancenkarte) is a points-based job-seeker visa for applicants without a job offer yet.",
+    "amount": null,
+    "source_url": "https://www.make-it-in-germany.com",
+    "last_verified": "2026-09-25"
+  },
+  {
+    "id": "kb_work_opportunity_account",
+    "category": "WORK",
+    "fact": "Job-seeker/Opportunity Card blocked-account amount is higher than the student rate. Ensure current figures are confirmed.",
+    "amount": null,
+    "source_url": "https://www.auswaertiges-amt.de",
+    "last_verified": "2026-09-25"
+  },
+  {
+    "id": "kb_vocational_demand",
+    "category": "VOCATIONAL",
+    "fact": "Strong demand in skilled trades: installation, plumbing, heating/AC, electrical, metalworking, construction.",
+    "amount": null,
+    "source_url": "https://www.make-it-in-germany.com",
+    "last_verified": "2026-09-25"
+  },
+  {
+    "id": "kb_vocational_requirements",
+    "category": "VOCATIONAL",
+    "fact": "Typically requires German B1 and a school-leaving certificate.",
+    "amount": null,
+    "source_url": "https://www.make-it-in-germany.com",
+    "last_verified": "2026-09-25"
+  },
+  {
+    "id": "kb_lifestyle_insurance",
+    "category": "LIFESTYLE",
+    "fact": "Health insurance is mandatory from day one (approx. €120/month for students via public providers).",
+    "amount": 120,
+    "source_url": "https://www.tk.de",
+    "last_verified": "2026-09-25"
+  },
+  {
+    "id": "kb_lifestyle_anmeldung",
+    "category": "LIFESTYLE",
+    "fact": "Anmeldung (address registration) and visa appointments take weeks, not days. Plan timelines accordingly.",
+    "amount": null,
+    "source_url": "https://www.auswaertiges-amt.de",
+    "last_verified": "2026-09-25"
+  },
+  {
+    "id": "kb_lifestyle_cost_of_living",
+    "category": "LIFESTYLE",
+    "fact": "Cost of living varies sharply by city (Munich/Frankfurt highest; Leipzig/Dresden/Dortmund much cheaper).",
+    "amount": null,
+    "source_url": "https://www.numbeo.com",
+    "last_verified": "2026-09-25"
+  },
+  {
+    "id": "kb_lifestyle_work_limit",
+    "category": "LIFESTYLE",
+    "fact": "Part-time work limit for non-EU students is 120 full days or 240 half days per year.",
+    "amount": 120,
+    "source_url": "https://www.make-it-in-germany.com",
+    "last_verified": "2026-09-25"
+  }
+]
